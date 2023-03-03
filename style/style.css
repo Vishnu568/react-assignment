@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+#header-portion >div{
+    display: inline-block;
+  
+}
+#header-portion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding: 20PX;
+    position:static;
+    height: 50px;
+}
+#edyoda{
+    color: #0084ff;
+    font-size: 33.6px;
+    font-weight: bolder;
+}
+#part-1{
+    margin-right: 100px;
+}
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    color: #00000099;
+    margin-left: 90px;
+}
+#btn{
+    border: 1px solid;
+    padding: 20px;
+    color: white;
+    background-color: #0084ff;
+    border-radius: 30px;
+    font-size: 12px;
+}
+#icon{
+    font-size: 30px;
+   position: relative;
+   bottom: -10px;
+}
+#storie{
+    font: italic;
+    margin-left: 10px;
+}

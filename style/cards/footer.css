@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+footer>div{
+   width: 200px;
+}
+
+footer{
+    margin-top: 20px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    background-color: rgb(2, 2, 77);
+    color: white;
+    padding: 70px;
+}
+
+.foot{
+    color: grey;
+}
+.foot:hover{
+    cursor: pointer;
+}
